@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c798d164f187fa643963eb17694fb380
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - eatingSound: {fileID: 8767756415188005162, guid: 85ecc31dd41796247ae04032607a5be8, type: 3}
+  - segmentPrefab: {fileID: 2896466310447042455, guid: e234ce3344e9cd942a48f39ba758cae2, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
